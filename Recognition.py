@@ -1,4 +1,4 @@
-#Import the modules
+# © Anti Tech , ML Project
 import sys, os.path, cv2
 import numpy as np
 from skimage.feature import hog
