@@ -9,7 +9,7 @@ Packages required for running the program are:<br />
 
 When executing for the very first time using a classifier, training with the MNIST database is performed and the trained data is dumped in to a file in the current directory. This is done so that, subsequent tests with the same classifier do not have to undergo the same process of learning again, which might be time consuming.
 
-Sample handwritten digit input images are provided in the 'dataset' directory.<br/><br />
+Sample handwritten digit input images are provided in the 'Master Branch'.<br/><br />
 
 ### Steps to run the Recognition system
 usage: **`python recognition.py <Classifier Index> <Test Image>`** <br />
